@@ -3,7 +3,7 @@
    ============================================================ */
 
 /* ---------- KONFIGURASI GOOGLE APPS SCRIPT ---------- */
-const GOOGLE_SCRIPT_URL = "MASUKKAN_URL_GOOGLE_APPS_SCRIPT_DI_SINI";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwu_nm2wK-JRlqoy0XCicwnrdjCb4AICjnJKbrtiuaNuuvoNybkCSKfiqE37MiPOsym1Q/exec";
 
 /* ---------- DATA PRODUK ---------- */
 const PRODUCTS = [
